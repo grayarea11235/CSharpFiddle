@@ -1,0 +1,16 @@
+/home/cpd/Devel/CSharpFiddle/snippets/hello/Hello/bin/Debug/net5.0/Hello
+/home/cpd/Devel/CSharpFiddle/snippets/hello/Hello/bin/Debug/net5.0/Hello.deps.json
+/home/cpd/Devel/CSharpFiddle/snippets/hello/Hello/bin/Debug/net5.0/Hello.runtimeconfig.json
+/home/cpd/Devel/CSharpFiddle/snippets/hello/Hello/bin/Debug/net5.0/Hello.runtimeconfig.dev.json
+/home/cpd/Devel/CSharpFiddle/snippets/hello/Hello/bin/Debug/net5.0/Hello.dll
+/home/cpd/Devel/CSharpFiddle/snippets/hello/Hello/bin/Debug/net5.0/ref/Hello.dll
+/home/cpd/Devel/CSharpFiddle/snippets/hello/Hello/bin/Debug/net5.0/Hello.pdb
+/home/cpd/Devel/CSharpFiddle/snippets/hello/Hello/obj/Debug/net5.0/Hello.csproj.AssemblyReference.cache
+/home/cpd/Devel/CSharpFiddle/snippets/hello/Hello/obj/Debug/net5.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/cpd/Devel/CSharpFiddle/snippets/hello/Hello/obj/Debug/net5.0/Hello.AssemblyInfoInputs.cache
+/home/cpd/Devel/CSharpFiddle/snippets/hello/Hello/obj/Debug/net5.0/Hello.AssemblyInfo.cs
+/home/cpd/Devel/CSharpFiddle/snippets/hello/Hello/obj/Debug/net5.0/Hello.csproj.CoreCompileInputs.cache
+/home/cpd/Devel/CSharpFiddle/snippets/hello/Hello/obj/Debug/net5.0/Hello.dll
+/home/cpd/Devel/CSharpFiddle/snippets/hello/Hello/obj/Debug/net5.0/ref/Hello.dll
+/home/cpd/Devel/CSharpFiddle/snippets/hello/Hello/obj/Debug/net5.0/Hello.pdb
+/home/cpd/Devel/CSharpFiddle/snippets/hello/Hello/obj/Debug/net5.0/Hello.genruntimeconfig.cache
